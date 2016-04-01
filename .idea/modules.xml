@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/itexttest.iml" filepath="$PROJECT_DIR$/.idea/modules/itexttest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/itexttest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/itexttest_main.iml" group="itexttest" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/itexttest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/itexttest_test.iml" group="itexttest" />
     </modules>
   </component>
 </project>
